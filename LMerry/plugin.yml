@@ -1,0 +1,28 @@
+name: LMerry
+main: LeRUGod\LMerry\LMerry
+version: 0.0.1
+author: LeRUGod
+api:
+  3.12.1
+  3.13.0
+commands:
+  "결혼 청혼":
+    description: 결혼 커맨드
+  "결혼 수락":
+    description: 결혼 커맨드
+  "결혼 거절":
+    description: 결혼 커맨드
+  "결혼식 종료":
+    description: 결혼 커맨드
+  "결혼식 이동":
+    description: 결혼 커맨드
+  "결혼 정보":
+    description: 결혼 커맨드
+  "결혼 이혼":
+    description: 결혼 커맨드
+  "결혼식장 설정":
+    description: 결혼 커맨드
+  "결혼 내정보":
+    description: 결혼 커맨드
+  "결혼식 정보":
+    description: 결혼 커맨드
